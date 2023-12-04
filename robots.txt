@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /404.html
+Sitemap: https://hijama-center-nur.ru/sitemap.xml
