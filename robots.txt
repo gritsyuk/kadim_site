@@ -1,4 +1,3 @@
 User-agent: *
 Disallow: /404.html
-Disallow /.gitignore
 Sitemap: https://hijama-center-nur.ru/sitemap.xml
